@@ -1,4 +1,4 @@
-# Erine_Theressa_Jose
+# erinejose
 My Github Profile
 <h1 align="center">Hi, I'm Erine 👋</h1>
 

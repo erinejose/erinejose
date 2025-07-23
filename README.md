@@ -13,8 +13,11 @@ My Github Profile
 👩‍💻 **About Me**  
 🌱 **Java Full Stack Developer** building scalable web applications  
 💻 Strong foundation in **DSA, OOPS & CS fundamentals**.  
+⭐ 4★ coder on HackerRank  
+🏅 Java Certified on HackerRank 
 🔧 Crafting APIs and optimizing web apps  
 🚀 Hands-on experience developing and debugging responsive interfaces
+
 
 ---
 

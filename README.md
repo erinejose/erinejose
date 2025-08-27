@@ -14,7 +14,7 @@ My Github Profile
 🌱 **Java Full Stack Developer** building scalable web applications  
 💻 Strong foundation in **DSA, OOPS & CS fundamentals**.  
 ⭐ 4★ coder on HackerRank - Problem Solving<br>
-🏅 Java Certified on HackerRank - 3★ in Java.<br>
+🏅 Java Certified on HackerRank - 4★ in Java.<br>
 🚀 Hands-on experience developing and debugging responsive interfaces
 
 
